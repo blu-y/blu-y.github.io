@@ -24,6 +24,8 @@ author:
   bio: blu-y.github.com
   email_md5: 3BFF6C79DE0573CB87C90786734AEEBB
 
+safe: True
+timezone: Asia/Seoul
 rss_path: feed.xml
 categories_path: categories.html
 tags_path: tags.html
