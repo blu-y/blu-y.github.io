@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello World!
+title: Blu Yun
 categories: [info]
 tags: [info]
 fullview: true
